@@ -10,20 +10,7 @@ For Making my EDA work easy and as fast ass possible.
 pip install vikas
 ```
 
-## Usage
 
-```python
-from vikas import *
-
-# rename 'columns' and change the name if u wish
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 
